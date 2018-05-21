@@ -210,3 +210,14 @@ C:\Users\rhcks\source\repos\IoTddddd\IoTddddd\obj\ARM\Debug\qualifiers.txt
 C:\Users\rhcks\source\repos\IoTddddd\IoTddddd\obj\ARM\Debug\qualifiers.txt.intermediate
 C:\Users\rhcks\source\repos\IoTddddd\IoTddddd\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\rhcks\source\repos\IoTddddd\IoTddddd\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\App.g.i.cs
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\App.g.cs
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\MainPage.g.cs
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\App.xaml
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\MainPage.xaml
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\App.xbf
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\MainPage.xbf
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\IoTddddd.exe
+C:\Users\rhcks\Documents\GreenEcoSaver-IoTform\IoTddddd\IoTddddd\obj\ARM\Debug\IoTddddd.pdb
