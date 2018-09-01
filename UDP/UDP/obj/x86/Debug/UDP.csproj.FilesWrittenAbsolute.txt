@@ -1,0 +1,5 @@
+/home/pi/Documents/UDP/UDP/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/pi/Documents/UDP/UDP/bin/Debug/UDP.exe.mdb
+/home/pi/Documents/UDP/UDP/bin/Debug/UDP.exe
+/home/pi/Documents/UDP/UDP/obj/x86/Debug/UDP.exe
+/home/pi/Documents/UDP/UDP/obj/x86/Debug/UDP.exe.mdb
